@@ -1,2 +1,2 @@
 # data_analysis
-Some helpful scripts for data analaysis
+Some usefull scripts for data analaysis
