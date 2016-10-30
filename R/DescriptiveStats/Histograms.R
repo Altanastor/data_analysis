@@ -1,4 +1,9 @@
-# Library initialization
+# El material aplicado aqui esta basado en el libro de Stastitcs 4th. Edition
+# de David Freedman, Robert Pisani and Rogert Purves.
+
+
+# Histogramas -------------------------------------------------------------
+
 
 library(agricolae)
 library(dplyr)
