@@ -5,6 +5,9 @@ library(ggExtra)
 library(dplyr)
 library(tidyr)
 
+#New library (broom)
+library(broom)
+
 
 ## Conventional Way 
 
